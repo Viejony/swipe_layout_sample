@@ -7,7 +7,7 @@ Also, includes in every swipe item a horizontal scroll view with items that can 
 ## Instructions
 1. Clone this repository
 2. Build it with Android Studio
-3. Install in a Android device and use it
+3. Install t in an Android device and use it
 
 ## License
 MIT
